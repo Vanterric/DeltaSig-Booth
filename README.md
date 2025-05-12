@@ -35,4 +35,4 @@ This experience was created to **boost recruitment efforts** by turning a standa
 
 Want to recreate something similar or explore a WebAR project of your own?
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/derrick-gallegos/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/derrickgallegos/)
